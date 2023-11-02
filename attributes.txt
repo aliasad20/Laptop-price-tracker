@@ -1,0 +1,39 @@
+Command to run
+
+python -m streamlit run app.py
+
+1.Manufacturer
+Dell,Lenovo,HP,Asus,Acer,MSI,Toshiba,Apple,Samsung,Razer,Mediacom,Microsoft,Xiaomi,Vero,Chuwi,Google,Furjitsu,LG,Huawei
+
+2.Category
+Notebook,Gaming,Ultrabook,Two in one convertible,workstation,netbook
+
+3.RAM
+4,8,16,6,12,32,2,24
+
+4.OS
+Windows,no os, linux, chromeos, macos,android
+
+5.Weight
+
+6.IPS 
+yes,no
+
+7.Screen resolution
+1920*1080, 1366*768, 1600*900, 3840*2160, 3200*1800, 2880*1800, 2560*1600, 2560*1440, 2304*1440
+
+8.Screen size
+input
+
+9.CPU Brand
+intel core-i3, intel core-i5, intel core i-7,other intel processor,amd processor
+
+10.HDD
+0,1000,500,2000,32,128
+
+11.SSD
+0,256,128,512,1000,32,16,64,1024,768,240,8
+
+12.GPU brand
+intel,nvidia,amd
+

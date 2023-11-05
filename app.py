@@ -55,4 +55,5 @@ if st.button('Predict Price'):
     query = np.array([company,type_of_laptop,ram,os,weight,ips,ppi,cpu,hdd,ssd,gpu])
 
     query = query.reshape(1,11)
-    st.title("The predicted price of this configuration is " + str(int(np.exp(pipe.predict(query)[0]))))
+    # st.title("The predicted price of this configuration is " + str(int((pipe.predict(query)[0]))))
+    st.title(pipe.predict(query))
